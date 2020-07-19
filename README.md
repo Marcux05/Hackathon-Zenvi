@@ -9,7 +9,7 @@ HACKATHON ZENVIA
 
 <h6>Contéudo:
 Temos chat bot, cursos, mentorias, plantão, consultoria(voz), dentre outras varias funções.</h6>
-<u>(A solução está zipada e descompactada também, caso contenha erros na versão descompactada.)</u>
+(<u>A solução está zipada e descompactada também, caso contenha erros na versão descompactada.</u>) 
 
 ---------------------
 <b>Time 7:</b> <i><p>Marcus V</p>
