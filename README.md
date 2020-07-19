@@ -1,21 +1,21 @@
 HACKATHON ZENVIA
 -------------------------
-Desafio: Solução de um pronlema social
+Desafio: Solução de um problema social
 
 -------------------------
-Solução: Criamos um meio que interliga varías pessoas com negocios , educa as mesmas e dá capacitação. (foco são microoemprendedores.)
+Solução: Criamos uma plataforma que interliga varías pessoas com negocios , educa as mesmas e dá capacitação. (foco são microoemprendedores.)
 
 -------------------
 
 Contéudo:
-Temos chat bot,cursos,mentorias,plantão,consultoria(voz), dentre outras varias funções.
-(a solução está zipada e descompactada também, caso contenha erros na versão descompactada.)
+Temos chat bot, cursos, mentorias, plantão, consultoria(voz), dentre outras varias funções.
+(A solução está zipada e descompactada também, caso contenha erros na versão descompactada.)
 
 ---------------------
-Time 7: Marcus V
+Time 7: <p>Marcus V</p>
        Willians F
        Rarielle R
        Tatiane S 
  
-# Hackathon-Zenvi
+# Hackathon-Zenvia
 Projeto da nossa solução.
