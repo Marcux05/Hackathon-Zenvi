@@ -13,9 +13,9 @@ Temos chat bot, cursos, mentorias, plantão, consultoria(voz), dentre outras var
 
 ---------------------
 Time 7: <p>Marcus V</p>
-       Willians F
-       Rarielle R
-       Tatiane S 
- 
-# Hackathon-Zenvia
+      <p> Willians F</p>
+     <p>  Rarielle R</p>
+       <p>Tatiane S </p> 
+       
+<h1> # Hackathon-Zenvia </h1>
 Projeto da nossa solução.
