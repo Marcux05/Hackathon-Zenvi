@@ -7,8 +7,8 @@ HACKATHON ZENVIA
 
 -------------------
 
-Contéudo:
-Temos chat bot, cursos, mentorias, plantão, consultoria(voz), dentre outras varias funções.
+<h6>Contéudo:
+Temos chat bot, cursos, mentorias, plantão, consultoria(voz), dentre outras varias funções.</h6>
 (A solução está zipada e descompactada também, caso contenha erros na versão descompactada.)
 
 ---------------------
