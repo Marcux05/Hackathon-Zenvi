@@ -9,13 +9,13 @@ HACKATHON ZENVIA
 
 <h6>Contéudo:
 Temos chat bot, cursos, mentorias, plantão, consultoria(voz), dentre outras varias funções.</h6>
-(A solução está zipada e descompactada também, caso contenha erros na versão descompactada.)
+<u>(A solução está zipada e descompactada também, caso contenha erros na versão descompactada.)</u>
 
 ---------------------
-Time 7: <p>Marcus V</p>
-      <p> Willians F</p>
-     <p>  Rarielle R</p>
-       <p>Tatiane S </p> 
+<b>Time 7:</b> <i><p>Marcus V</p>
+            <p> Willians F</p>
+          <p>  Rarielle R</p>
+           <p>Tatiane S </p> </i>
        
 <h1> # Hackathon-Zenvia </h1>
 Projeto da nossa solução.
